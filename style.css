@@ -8,9 +8,12 @@ body{
 /*style for top page image*/
 #page-image{
 		height: 40vh;
-		background-image: url(https://themepack.me/i/c/749x468/media/g/601/dc-comics-theme-13.jpg);
+
+
+		background-image: url(https://wallpaperaccess.com/full/247074.jpg);
 		background-position: top;
 		background-attachment: fixed;
+		background-size: cover;
 }
 #input{
 	width: 70%;
