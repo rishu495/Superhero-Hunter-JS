@@ -8,7 +8,7 @@
 
 --> Each search result contains name of SuperHero and the like(Favourite) picture.
 
-
+--> After typing a letter, please wait for sometimes(some seconds), it takes time as it is hitting API when u write some letter in box.
 
 
 					<!-- Profile Features -->
@@ -23,6 +23,7 @@
 
 					<!-- Favourite Features -->
 
+--> Favourite List open when user clciks on (My Favourite SuperHero) on top of the HomePage written with white colour Text.
 
 --> while clicking once on the favourite icon will add that superhero in your favourite.
 
